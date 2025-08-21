@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A7medGaberMo
 - 👀 I’m interested in Web Devolping
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning .Net
 - 💞️ I’m looking to collaborate on AnyOne
 - 📫 How to reach me ahmedgaber124004@gmail.com
 - 😄 Pronouns: he
